@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/foodie-delivery-app-48835-48844/frontend_app/.dart_tool/flutter_build/0358edf74fd1b15d79930492ffbb990c/native_assets.json: 
